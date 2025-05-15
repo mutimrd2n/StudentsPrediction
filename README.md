@@ -59,13 +59,13 @@ Sebagian besar prediksi mendekati nilai sebenarnya. Model cukup baik dalam menan
 
 1. Clone repositori:
    ```bash
-   git clone  https://github.com/mutimrd2n/EDA-OnlineRetail.git
-   cd EDA-OlineRetail
+   git clone  https://github.com/mutimrd2n/StudentsPrediction.git
+   cd StudentPrediction
    
 2. Install dependencies :
    ```bash
-   pip install -r requirements.txt
+   pip install pandas numpy matplotlib seaborn scikit-learn
 
 3. Menjalankan Program
    ```bash
-   python eda_onlineretail.py
+   python studentregresion.py
