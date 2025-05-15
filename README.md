@@ -55,4 +55,17 @@ Visualisasi hasil prediksi:
 Interpretasi:  
 Sebagian besar prediksi mendekati nilai sebenarnya. Model cukup baik dalam menangani data menengah dan tinggi, dengan sedikit penyebaran pada nilai rendah.
 
----
+## Instalasi
+
+1. Clone repositori:
+   ```bash
+   git clone  https://github.com/mutimrd2n/EDA-OnlineRetail.git
+   cd EDA-OlineRetail
+   
+2. Install dependencies :
+   ```bash
+   pip install -r requirements.txt
+
+3. Menjalankan Program
+   ```bash
+   python eda_onlineretail.py
